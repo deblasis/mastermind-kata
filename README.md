@@ -24,4 +24,4 @@ For a secret `[blue, red, green, pink]` and a guess `[yellow, red, blue, purple]
 **1 well placed** and **1 misplaced**.
        
 # IMPORTANT:
-Before you start please create a branch with your name
+Before you start please create a branch with your name, just locally
